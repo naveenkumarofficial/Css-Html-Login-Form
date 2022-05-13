@@ -1,0 +1,59 @@
+.card-image {
+  width: 245px;
+  margin: 20px;
+  margin-bottom: 0;
+  border-radius: 15px;
+}
+
+.futt {
+  background-color: #fafaff;
+  border-radius: 0 0 13px 13px !important;
+  margin: 7px;
+  padding-top: 11px;
+}
+
+.butter {
+}
+
+.butter:hover {
+  transition: all 0.25s ease-in;
+  word-spacing: -1px;
+  margin-left: -1%;
+}
+
+.butter2 {
+}
+
+.butter2:hover {
+  transform: translateX(3px);
+  transition: all 0.25s ease-in;
+  word-spacing: -1px;
+}
+
+.cd {
+  border-radius: 13px;
+  box-shadow: -1px 4px 13px 3px rgba(89, 89, 89, 0.25);
+  -webkit-box-shadow: -1px 4px 13px 3px rgba(89, 89, 89, 0.25);
+  -moz-box-shadow: -1px 4px 13px 3px rgba(89, 89, 89, 0.25);
+  background-color: #fafaff;
+  transition: all 0.25s ease-out;
+}
+
+.cd:hover {
+  border-radius: 13px;
+  box-shadow: 1px 1px 14px 6px rgba(0, 10, 255, 0.18);
+  -webkit-box-shadow: 1px 1px 14px 6px rgba(0, 10, 255, 0.18);
+  -moz-box-shadow: 1px 1px 14px 6px rgba(0, 10, 255, 0.18);
+  transform: translateY(-3px);
+  transition: all 0.25s ease-in;
+}
+
+.ic {
+  vertical-align: -6px;
+}
+
+.futt a {
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.45s ease-out;
+}
